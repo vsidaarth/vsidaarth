@@ -1,7 +1,7 @@
 
 
 for p = 1:1
-key = 'Vishnu_Sidaarth_(Wroclaw_Uni_SciTech)_[ACADEMIC-SINGLE-USER]';   
+key = please contact info@midaco-solver.com for the key. The dveloper controls this  
 
 
 networkdata = 'case_ieee30_MIDACOOPF.m';
