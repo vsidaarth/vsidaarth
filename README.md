@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vsidaarth
+- 👋 Hi, I’m Vishnu Suresh (@vsidaarth) 
 - 👀 I’m interested in meta-heuristic optimization algorithms for microgrid energy mangement systems. Deep learning architectures for renewable energy forecasting. 
 - 🌱 I’m currently learning how to implement newly introuced deep learning architectures and newly introduced meta-heuristics
 - 💞️ I’m looking to collaborate on the above mentioned topics
